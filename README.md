@@ -1,6 +1,8 @@
 # hackin-good-places
 happy hacking 할 수 있는 직접 가본 모든 장소 모음  
-👍🏻❤️ 완전 추천 | 👍🏻 추천 | 😎 감성 | 🚶🏻‍♀️ 뚜벅이 | 😪  비추천
+👍🏻❤️ 완전 추천 | 👍🏻 추천 | 😎 감성 | 🚶🏻‍♀️ 뚜벅이 | 😪  비추천  
+구글 지도: https://www.google.com/maps/d/edit?mid=1NAol-Jhh6lw1v7PCfp_qIFJaOgufoATL&usp=sharing
+
 ## 경기도 
 | 장소 명  | 콘센트   | 커피/음식  | 주차장  | 화장실  | +  |  추천 | 
 |---|---|---|---|---|---| --- |
