@@ -1,0 +1,15 @@
+{
+  "name": "express-tutorial",
+  "version": "1.0.0",  
+  "dependencies": {    
+    "ejs": "^2.7.4",     
+    "express": "^4.18.2",     
+    "react": "^18.2.0"  
+  },
+  "scripts": {
+    "test": "npm test",
+    "dev": "concurrently \"npm run dev:server\" \"npm run dev:client\"",
+    "dev:server": "node server.js",
+    "dev:client": "cd client && yarn start"
+  }
+}
